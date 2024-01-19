@@ -7,10 +7,6 @@ Data_Integration(additonal).ipynb
 WebScraping_Review_Lab.ipynb
 NYC green taxis dataset description.pdf
 Milestone 1/green_tripdata_2016-01.csv
-Milestone 1/.ipynb_checkpoints/template-checkpoint.ipynb
-Milestone 1/location_coordinates_pu_location.csv
-Milestone 1/location_coordinates_do_location.csv
-Milestone 1/all_location_coordinates.csv
 Milestone 2/Submission/m2_49-0359_MET_P2_1_2016.zip
 Milestone 4/Submission/DE_M4_49-0359_MET_01_2016.zip
 Milestone 2/Submission/m2_49-0359_MET_P2_1_2016/data/green_tripdata_2016-01.csv
@@ -18,3 +14,4 @@ Milestone 1/Submission/green_tripdata_2016-01_clean.csv
 Milestone 1/Submission/green_tripdata_2016-01.csv
 Milestone 3/Submission/yellow_tripdata_2016-01.parquet
 Milestone 4/Submission/DE_M4_49-0359_MET_01_2016.mkv
+Milestone 1/green_tripdata_2016-01_clean.csv
