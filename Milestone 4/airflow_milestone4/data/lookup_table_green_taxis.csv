@@ -1,0 +1,471 @@
+Column Name,Original Value,Imputed/Encoded Value
+passenger_count,null/nan,1.0
+extra,null/nan,0
+payment_type,unknown,Cash
+trip_distance,0,-1
+pickup_location,"Bronx,Allerton/Pelham Gardens",0
+pickup_location,"Bronx,Bedford Park",1
+pickup_location,"Bronx,Belmont",2
+pickup_location,"Bronx,Bronx Park",3
+pickup_location,"Bronx,Bronxdale",4
+pickup_location,"Bronx,City Island",5
+pickup_location,"Bronx,Claremont/Bathgate",6
+pickup_location,"Bronx,Co-Op City",7
+pickup_location,"Bronx,Country Club",8
+pickup_location,"Bronx,Crotona Park",9
+pickup_location,"Bronx,Crotona Park East",10
+pickup_location,"Bronx,East Concourse/Concourse Village",11
+pickup_location,"Bronx,East Tremont",12
+pickup_location,"Bronx,Eastchester",13
+pickup_location,"Bronx,Fordham South",14
+pickup_location,"Bronx,Highbridge",15
+pickup_location,"Bronx,Hunts Point",16
+pickup_location,"Bronx,Kingsbridge Heights",17
+pickup_location,"Bronx,Longwood",18
+pickup_location,"Bronx,Melrose South",19
+pickup_location,"Bronx,Morrisania/Melrose",20
+pickup_location,"Bronx,Mott Haven/Port Morris",21
+pickup_location,"Bronx,Mount Hope",22
+pickup_location,"Bronx,Norwood",23
+pickup_location,"Bronx,Parkchester",24
+pickup_location,"Bronx,Pelham Bay",25
+pickup_location,"Bronx,Pelham Bay Park",26
+pickup_location,"Bronx,Pelham Parkway",27
+pickup_location,"Bronx,Riverdale/North Riverdale/Fieldston",28
+pickup_location,"Bronx,Schuylerville/Edgewater Park",29
+pickup_location,"Bronx,Soundview/Bruckner",30
+pickup_location,"Bronx,Soundview/Castle Hill",31
+pickup_location,"Bronx,Spuyten Duyvil/Kingsbridge",32
+pickup_location,"Bronx,University Heights/Morris Heights",33
+pickup_location,"Bronx,Van Cortlandt Park",34
+pickup_location,"Bronx,Van Cortlandt Village",35
+pickup_location,"Bronx,Van Nest/Morris Park",36
+pickup_location,"Bronx,West Concourse",37
+pickup_location,"Bronx,West Farms/Bronx River",38
+pickup_location,"Bronx,Westchester Village/Unionport",39
+pickup_location,"Bronx,Williamsbridge/Olinville",40
+pickup_location,"Bronx,Woodlawn/Wakefield",41
+pickup_location,"Brooklyn,Bath Beach",42
+pickup_location,"Brooklyn,Bay Ridge",43
+pickup_location,"Brooklyn,Bedford",44
+pickup_location,"Brooklyn,Bensonhurst East",45
+pickup_location,"Brooklyn,Bensonhurst West",46
+pickup_location,"Brooklyn,Boerum Hill",47
+pickup_location,"Brooklyn,Borough Park",48
+pickup_location,"Brooklyn,Brighton Beach",49
+pickup_location,"Brooklyn,Brooklyn Heights",50
+pickup_location,"Brooklyn,Brooklyn Navy Yard",51
+pickup_location,"Brooklyn,Brownsville",52
+pickup_location,"Brooklyn,Bushwick North",53
+pickup_location,"Brooklyn,Bushwick South",54
+pickup_location,"Brooklyn,Canarsie",55
+pickup_location,"Brooklyn,Carroll Gardens",56
+pickup_location,"Brooklyn,Clinton Hill",57
+pickup_location,"Brooklyn,Cobble Hill",58
+pickup_location,"Brooklyn,Columbia Street",59
+pickup_location,"Brooklyn,Coney Island",60
+pickup_location,"Brooklyn,Crown Heights North",61
+pickup_location,"Brooklyn,Crown Heights South",62
+pickup_location,"Brooklyn,Cypress Hills",63
+pickup_location,"Brooklyn,DUMBO/Vinegar Hill",64
+pickup_location,"Brooklyn,Downtown Brooklyn/MetroTech",65
+pickup_location,"Brooklyn,Dyker Heights",66
+pickup_location,"Brooklyn,East Flatbush/Farragut",67
+pickup_location,"Brooklyn,East Flatbush/Remsen Village",68
+pickup_location,"Brooklyn,East New York",69
+pickup_location,"Brooklyn,East New York/Pennsylvania Avenue",70
+pickup_location,"Brooklyn,East Williamsburg",71
+pickup_location,"Brooklyn,Erasmus",72
+pickup_location,"Brooklyn,Flatbush/Ditmas Park",73
+pickup_location,"Brooklyn,Flatlands",74
+pickup_location,"Brooklyn,Fort Greene",75
+pickup_location,"Brooklyn,Gowanus",76
+pickup_location,"Brooklyn,Gravesend",77
+pickup_location,"Brooklyn,Green-Wood Cemetery",78
+pickup_location,"Brooklyn,Greenpoint",79
+pickup_location,"Brooklyn,Homecrest",80
+pickup_location,"Brooklyn,Kensington",81
+pickup_location,"Brooklyn,Madison",82
+pickup_location,"Brooklyn,Manhattan Beach",83
+pickup_location,"Brooklyn,Marine Park/Floyd Bennett Field",84
+pickup_location,"Brooklyn,Marine Park/Mill Basin",85
+pickup_location,"Brooklyn,Midwood",86
+pickup_location,"Brooklyn,Ocean Hill",87
+pickup_location,"Brooklyn,Ocean Parkway South",88
+pickup_location,"Brooklyn,Park Slope",89
+pickup_location,"Brooklyn,Prospect Heights",90
+pickup_location,"Brooklyn,Prospect Park",91
+pickup_location,"Brooklyn,Prospect-Lefferts Gardens",92
+pickup_location,"Brooklyn,Red Hook",93
+pickup_location,"Brooklyn,Sheepshead Bay",94
+pickup_location,"Brooklyn,South Williamsburg",95
+pickup_location,"Brooklyn,Starrett City",96
+pickup_location,"Brooklyn,Stuyvesant Heights",97
+pickup_location,"Brooklyn,Sunset Park East",98
+pickup_location,"Brooklyn,Sunset Park West",99
+pickup_location,"Brooklyn,Williamsburg (North Side)",100
+pickup_location,"Brooklyn,Williamsburg (South Side)",101
+pickup_location,"Brooklyn,Windsor Terrace",102
+pickup_location,"EWR,Newark Airport",103
+pickup_location,"Manhattan,Bloomingdale",104
+pickup_location,"Manhattan,Central Harlem",105
+pickup_location,"Manhattan,Central Harlem North",106
+pickup_location,"Manhattan,Central Park",107
+pickup_location,"Manhattan,East Harlem North",108
+pickup_location,"Manhattan,East Harlem South",109
+pickup_location,"Manhattan,Financial District South",110
+pickup_location,"Manhattan,Hamilton Heights",111
+pickup_location,"Manhattan,Highbridge Park",112
+pickup_location,"Manhattan,Inwood",113
+pickup_location,"Manhattan,Inwood Hill Park",114
+pickup_location,"Manhattan,Kips Bay",115
+pickup_location,"Manhattan,Lincoln Square East",116
+pickup_location,"Manhattan,Little Italy/NoLiTa",117
+pickup_location,"Manhattan,Manhattan Valley",118
+pickup_location,"Manhattan,Manhattanville",119
+pickup_location,"Manhattan,Marble Hill",120
+pickup_location,"Manhattan,Morningside Heights",121
+pickup_location,"Manhattan,Randalls Island",122
+pickup_location,"Manhattan,Roosevelt Island",123
+pickup_location,"Manhattan,Upper East Side North",124
+pickup_location,"Manhattan,Upper West Side South",125
+pickup_location,"Manhattan,Washington Heights North",126
+pickup_location,"Manhattan,Washington Heights South",127
+pickup_location,"Manhattan,Yorkville East",128
+pickup_location,"Manhattan,Yorkville West",129
+pickup_location,"Queens,Astoria",130
+pickup_location,"Queens,Astoria Park",131
+pickup_location,"Queens,Auburndale",132
+pickup_location,"Queens,Baisley Park",133
+pickup_location,"Queens,Bay Terrace/Fort Totten",134
+pickup_location,"Queens,Bayside",135
+pickup_location,"Queens,Bellerose",136
+pickup_location,"Queens,Breezy Point/Fort Tilden/Riis Beach",137
+pickup_location,"Queens,Briarwood/Jamaica Hills",138
+pickup_location,"Queens,Broad Channel",139
+pickup_location,"Queens,Cambria Heights",140
+pickup_location,"Queens,College Point",141
+pickup_location,"Queens,Corona",142
+pickup_location,"Queens,Douglaston",143
+pickup_location,"Queens,East Elmhurst",144
+pickup_location,"Queens,East Flushing",145
+pickup_location,"Queens,Elmhurst",146
+pickup_location,"Queens,Elmhurst/Maspeth",147
+pickup_location,"Queens,Far Rockaway",148
+pickup_location,"Queens,Flushing",149
+pickup_location,"Queens,Flushing Meadows-Corona Park",150
+pickup_location,"Queens,Forest Hills",151
+pickup_location,"Queens,Forest Park/Highland Park",152
+pickup_location,"Queens,Fresh Meadows",153
+pickup_location,"Queens,Glen Oaks",154
+pickup_location,"Queens,Glendale",155
+pickup_location,"Queens,Hammels/Arverne",156
+pickup_location,"Queens,Hillcrest/Pomonok",157
+pickup_location,"Queens,Hollis",158
+pickup_location,"Queens,Howard Beach",159
+pickup_location,"Queens,JFK Airport",160
+pickup_location,"Queens,Jackson Heights",161
+pickup_location,"Queens,Jamaica",162
+pickup_location,"Queens,Jamaica Estates",163
+pickup_location,"Queens,Kew Gardens",164
+pickup_location,"Queens,Kew Gardens Hills",165
+pickup_location,"Queens,LaGuardia Airport",166
+pickup_location,"Queens,Laurelton",167
+pickup_location,"Queens,Long Island City/Hunters Point",168
+pickup_location,"Queens,Long Island City/Queens Plaza",169
+pickup_location,"Queens,Maspeth",170
+pickup_location,"Queens,Middle Village",171
+pickup_location,"Queens,Murray Hill-Queens",172
+pickup_location,"Queens,North Corona",173
+pickup_location,"Queens,Oakland Gardens",174
+pickup_location,"Queens,Old Astoria",175
+pickup_location,"Queens,Ozone Park",176
+pickup_location,"Queens,Queens Village",177
+pickup_location,"Queens,Queensboro Hill",178
+pickup_location,"Queens,Queensbridge/Ravenswood",179
+pickup_location,"Queens,Rego Park",180
+pickup_location,"Queens,Richmond Hill",181
+pickup_location,"Queens,Ridgewood",182
+pickup_location,"Queens,Rosedale",183
+pickup_location,"Queens,Saint Albans",184
+pickup_location,"Queens,Saint Michaels Cemetery/Woodside",185
+pickup_location,"Queens,South Jamaica",186
+pickup_location,"Queens,South Ozone Park",187
+pickup_location,"Queens,Springfield Gardens North",188
+pickup_location,"Queens,Springfield Gardens South",189
+pickup_location,"Queens,Steinway",190
+pickup_location,"Queens,Sunnyside",191
+pickup_location,"Queens,Whitestone",192
+pickup_location,"Queens,Willets Point",193
+pickup_location,"Queens,Woodhaven",194
+pickup_location,"Queens,Woodside",195
+pickup_location,"Staten Island,Arrochar/Fort Wadsworth",196
+pickup_location,"Staten Island,Bloomfield/Emerson Hill",197
+pickup_location,"Staten Island,Charleston/Tottenville",198
+pickup_location,"Staten Island,Great Kills",199
+pickup_location,"Staten Island,Grymes Hill/Clifton",200
+pickup_location,"Staten Island,Heartland Village/Todt Hill",201
+pickup_location,"Staten Island,Mariners Harbor",202
+pickup_location,"Staten Island,New Dorp/Midland Beach",203
+pickup_location,"Staten Island,Oakwood",204
+pickup_location,"Staten Island,Port Richmond",205
+pickup_location,"Staten Island,Saint George/New Brighton",206
+pickup_location,"Staten Island,South Beach/Dongan Hills",207
+pickup_location,"Staten Island,Stapleton",208
+pickup_location,"Staten Island,West Brighton",209
+pickup_location,"Unknown,NV",210
+pickup_location,"Unknown,Unknown",211
+dropoff_location,"Bronx,Allerton/Pelham Gardens",0
+dropoff_location,"Bronx,Bedford Park",1
+dropoff_location,"Bronx,Belmont",2
+dropoff_location,"Bronx,Bronx Park",3
+dropoff_location,"Bronx,Bronxdale",4
+dropoff_location,"Bronx,City Island",5
+dropoff_location,"Bronx,Claremont/Bathgate",6
+dropoff_location,"Bronx,Co-Op City",7
+dropoff_location,"Bronx,Country Club",8
+dropoff_location,"Bronx,Crotona Park",9
+dropoff_location,"Bronx,Crotona Park East",10
+dropoff_location,"Bronx,East Concourse/Concourse Village",11
+dropoff_location,"Bronx,East Tremont",12
+dropoff_location,"Bronx,Eastchester",13
+dropoff_location,"Bronx,Fordham South",14
+dropoff_location,"Bronx,Highbridge",15
+dropoff_location,"Bronx,Hunts Point",16
+dropoff_location,"Bronx,Kingsbridge Heights",17
+dropoff_location,"Bronx,Longwood",18
+dropoff_location,"Bronx,Melrose South",19
+dropoff_location,"Bronx,Morrisania/Melrose",20
+dropoff_location,"Bronx,Mott Haven/Port Morris",21
+dropoff_location,"Bronx,Mount Hope",22
+dropoff_location,"Bronx,Norwood",23
+dropoff_location,"Bronx,Parkchester",24
+dropoff_location,"Bronx,Pelham Bay",25
+dropoff_location,"Bronx,Pelham Bay Park",26
+dropoff_location,"Bronx,Pelham Parkway",27
+dropoff_location,"Bronx,Riverdale/North Riverdale/Fieldston",28
+dropoff_location,"Bronx,Schuylerville/Edgewater Park",29
+dropoff_location,"Bronx,Soundview/Bruckner",30
+dropoff_location,"Bronx,Soundview/Castle Hill",31
+dropoff_location,"Bronx,Spuyten Duyvil/Kingsbridge",32
+dropoff_location,"Bronx,University Heights/Morris Heights",33
+dropoff_location,"Bronx,Van Cortlandt Park",34
+dropoff_location,"Bronx,Van Cortlandt Village",35
+dropoff_location,"Bronx,Van Nest/Morris Park",36
+dropoff_location,"Bronx,West Concourse",37
+dropoff_location,"Bronx,West Farms/Bronx River",38
+dropoff_location,"Bronx,Westchester Village/Unionport",39
+dropoff_location,"Bronx,Williamsbridge/Olinville",40
+dropoff_location,"Bronx,Woodlawn/Wakefield",41
+dropoff_location,"Brooklyn,Bath Beach",42
+dropoff_location,"Brooklyn,Bay Ridge",43
+dropoff_location,"Brooklyn,Bedford",44
+dropoff_location,"Brooklyn,Bensonhurst East",45
+dropoff_location,"Brooklyn,Bensonhurst West",46
+dropoff_location,"Brooklyn,Boerum Hill",47
+dropoff_location,"Brooklyn,Borough Park",48
+dropoff_location,"Brooklyn,Brighton Beach",49
+dropoff_location,"Brooklyn,Brooklyn Heights",50
+dropoff_location,"Brooklyn,Brooklyn Navy Yard",51
+dropoff_location,"Brooklyn,Brownsville",52
+dropoff_location,"Brooklyn,Bushwick North",53
+dropoff_location,"Brooklyn,Bushwick South",54
+dropoff_location,"Brooklyn,Canarsie",55
+dropoff_location,"Brooklyn,Carroll Gardens",56
+dropoff_location,"Brooklyn,Clinton Hill",57
+dropoff_location,"Brooklyn,Cobble Hill",58
+dropoff_location,"Brooklyn,Columbia Street",59
+dropoff_location,"Brooklyn,Coney Island",60
+dropoff_location,"Brooklyn,Crown Heights North",61
+dropoff_location,"Brooklyn,Crown Heights South",62
+dropoff_location,"Brooklyn,Cypress Hills",63
+dropoff_location,"Brooklyn,DUMBO/Vinegar Hill",64
+dropoff_location,"Brooklyn,Downtown Brooklyn/MetroTech",65
+dropoff_location,"Brooklyn,Dyker Heights",66
+dropoff_location,"Brooklyn,East Flatbush/Farragut",67
+dropoff_location,"Brooklyn,East Flatbush/Remsen Village",68
+dropoff_location,"Brooklyn,East New York",69
+dropoff_location,"Brooklyn,East New York/Pennsylvania Avenue",70
+dropoff_location,"Brooklyn,East Williamsburg",71
+dropoff_location,"Brooklyn,Erasmus",72
+dropoff_location,"Brooklyn,Flatbush/Ditmas Park",73
+dropoff_location,"Brooklyn,Flatlands",74
+dropoff_location,"Brooklyn,Fort Greene",75
+dropoff_location,"Brooklyn,Gowanus",76
+dropoff_location,"Brooklyn,Gravesend",77
+dropoff_location,"Brooklyn,Green-Wood Cemetery",78
+dropoff_location,"Brooklyn,Greenpoint",79
+dropoff_location,"Brooklyn,Homecrest",80
+dropoff_location,"Brooklyn,Kensington",81
+dropoff_location,"Brooklyn,Madison",82
+dropoff_location,"Brooklyn,Manhattan Beach",83
+dropoff_location,"Brooklyn,Marine Park/Floyd Bennett Field",84
+dropoff_location,"Brooklyn,Marine Park/Mill Basin",85
+dropoff_location,"Brooklyn,Midwood",86
+dropoff_location,"Brooklyn,Ocean Hill",87
+dropoff_location,"Brooklyn,Ocean Parkway South",88
+dropoff_location,"Brooklyn,Park Slope",89
+dropoff_location,"Brooklyn,Prospect Heights",90
+dropoff_location,"Brooklyn,Prospect Park",91
+dropoff_location,"Brooklyn,Prospect-Lefferts Gardens",92
+dropoff_location,"Brooklyn,Red Hook",93
+dropoff_location,"Brooklyn,Sheepshead Bay",94
+dropoff_location,"Brooklyn,South Williamsburg",95
+dropoff_location,"Brooklyn,Starrett City",96
+dropoff_location,"Brooklyn,Stuyvesant Heights",97
+dropoff_location,"Brooklyn,Sunset Park East",98
+dropoff_location,"Brooklyn,Sunset Park West",99
+dropoff_location,"Brooklyn,Williamsburg (North Side)",100
+dropoff_location,"Brooklyn,Williamsburg (South Side)",101
+dropoff_location,"Brooklyn,Windsor Terrace",102
+dropoff_location,"EWR,Newark Airport",103
+dropoff_location,"Manhattan,Alphabet City",104
+dropoff_location,"Manhattan,Battery Park",105
+dropoff_location,"Manhattan,Battery Park City",106
+dropoff_location,"Manhattan,Bloomingdale",107
+dropoff_location,"Manhattan,Central Harlem",108
+dropoff_location,"Manhattan,Central Harlem North",109
+dropoff_location,"Manhattan,Central Park",110
+dropoff_location,"Manhattan,Chinatown",111
+dropoff_location,"Manhattan,Clinton East",112
+dropoff_location,"Manhattan,Clinton West",113
+dropoff_location,"Manhattan,East Chelsea",114
+dropoff_location,"Manhattan,East Harlem North",115
+dropoff_location,"Manhattan,East Harlem South",116
+dropoff_location,"Manhattan,East Village",117
+dropoff_location,"Manhattan,Financial District North",118
+dropoff_location,"Manhattan,Financial District South",119
+dropoff_location,"Manhattan,Flatiron",120
+dropoff_location,"Manhattan,Garment District",121
+dropoff_location,"Manhattan,Gramercy",122
+dropoff_location,"Manhattan,Greenwich Village North",123
+dropoff_location,"Manhattan,Greenwich Village South",124
+dropoff_location,"Manhattan,Hamilton Heights",125
+dropoff_location,"Manhattan,Highbridge Park",126
+dropoff_location,"Manhattan,Hudson Sq",127
+dropoff_location,"Manhattan,Inwood",128
+dropoff_location,"Manhattan,Inwood Hill Park",129
+dropoff_location,"Manhattan,Kips Bay",130
+dropoff_location,"Manhattan,Lenox Hill East",131
+dropoff_location,"Manhattan,Lenox Hill West",132
+dropoff_location,"Manhattan,Lincoln Square East",133
+dropoff_location,"Manhattan,Lincoln Square West",134
+dropoff_location,"Manhattan,Little Italy/NoLiTa",135
+dropoff_location,"Manhattan,Lower East Side",136
+dropoff_location,"Manhattan,Manhattan Valley",137
+dropoff_location,"Manhattan,Manhattanville",138
+dropoff_location,"Manhattan,Marble Hill",139
+dropoff_location,"Manhattan,Meatpacking/West Village West",140
+dropoff_location,"Manhattan,Midtown Center",141
+dropoff_location,"Manhattan,Midtown East",142
+dropoff_location,"Manhattan,Midtown North",143
+dropoff_location,"Manhattan,Midtown South",144
+dropoff_location,"Manhattan,Morningside Heights",145
+dropoff_location,"Manhattan,Murray Hill",146
+dropoff_location,"Manhattan,Penn Station/Madison Sq West",147
+dropoff_location,"Manhattan,Randalls Island",148
+dropoff_location,"Manhattan,Roosevelt Island",149
+dropoff_location,"Manhattan,Seaport",150
+dropoff_location,"Manhattan,SoHo",151
+dropoff_location,"Manhattan,Stuy Town/Peter Cooper Village",152
+dropoff_location,"Manhattan,Sutton Place/Turtle Bay North",153
+dropoff_location,"Manhattan,Times Sq/Theatre District",154
+dropoff_location,"Manhattan,TriBeCa/Civic Center",155
+dropoff_location,"Manhattan,Two Bridges/Seward Park",156
+dropoff_location,"Manhattan,UN/Turtle Bay South",157
+dropoff_location,"Manhattan,Union Sq",158
+dropoff_location,"Manhattan,Upper East Side North",159
+dropoff_location,"Manhattan,Upper East Side South",160
+dropoff_location,"Manhattan,Upper West Side North",161
+dropoff_location,"Manhattan,Upper West Side South",162
+dropoff_location,"Manhattan,Washington Heights North",163
+dropoff_location,"Manhattan,Washington Heights South",164
+dropoff_location,"Manhattan,West Chelsea/Hudson Yards",165
+dropoff_location,"Manhattan,West Village",166
+dropoff_location,"Manhattan,World Trade Center",167
+dropoff_location,"Manhattan,Yorkville East",168
+dropoff_location,"Manhattan,Yorkville West",169
+dropoff_location,"Queens,Astoria",170
+dropoff_location,"Queens,Astoria Park",171
+dropoff_location,"Queens,Auburndale",172
+dropoff_location,"Queens,Baisley Park",173
+dropoff_location,"Queens,Bay Terrace/Fort Totten",174
+dropoff_location,"Queens,Bayside",175
+dropoff_location,"Queens,Bellerose",176
+dropoff_location,"Queens,Breezy Point/Fort Tilden/Riis Beach",177
+dropoff_location,"Queens,Briarwood/Jamaica Hills",178
+dropoff_location,"Queens,Broad Channel",179
+dropoff_location,"Queens,Cambria Heights",180
+dropoff_location,"Queens,College Point",181
+dropoff_location,"Queens,Corona",182
+dropoff_location,"Queens,Douglaston",183
+dropoff_location,"Queens,East Elmhurst",184
+dropoff_location,"Queens,East Flushing",185
+dropoff_location,"Queens,Elmhurst",186
+dropoff_location,"Queens,Elmhurst/Maspeth",187
+dropoff_location,"Queens,Far Rockaway",188
+dropoff_location,"Queens,Flushing",189
+dropoff_location,"Queens,Flushing Meadows-Corona Park",190
+dropoff_location,"Queens,Forest Hills",191
+dropoff_location,"Queens,Forest Park/Highland Park",192
+dropoff_location,"Queens,Fresh Meadows",193
+dropoff_location,"Queens,Glen Oaks",194
+dropoff_location,"Queens,Glendale",195
+dropoff_location,"Queens,Hammels/Arverne",196
+dropoff_location,"Queens,Hillcrest/Pomonok",197
+dropoff_location,"Queens,Hollis",198
+dropoff_location,"Queens,Howard Beach",199
+dropoff_location,"Queens,JFK Airport",200
+dropoff_location,"Queens,Jackson Heights",201
+dropoff_location,"Queens,Jamaica",202
+dropoff_location,"Queens,Jamaica Estates",203
+dropoff_location,"Queens,Kew Gardens",204
+dropoff_location,"Queens,Kew Gardens Hills",205
+dropoff_location,"Queens,LaGuardia Airport",206
+dropoff_location,"Queens,Laurelton",207
+dropoff_location,"Queens,Long Island City/Hunters Point",208
+dropoff_location,"Queens,Long Island City/Queens Plaza",209
+dropoff_location,"Queens,Maspeth",210
+dropoff_location,"Queens,Middle Village",211
+dropoff_location,"Queens,Murray Hill-Queens",212
+dropoff_location,"Queens,North Corona",213
+dropoff_location,"Queens,Oakland Gardens",214
+dropoff_location,"Queens,Old Astoria",215
+dropoff_location,"Queens,Ozone Park",216
+dropoff_location,"Queens,Queens Village",217
+dropoff_location,"Queens,Queensboro Hill",218
+dropoff_location,"Queens,Queensbridge/Ravenswood",219
+dropoff_location,"Queens,Rego Park",220
+dropoff_location,"Queens,Richmond Hill",221
+dropoff_location,"Queens,Ridgewood",222
+dropoff_location,"Queens,Rockaway Park",223
+dropoff_location,"Queens,Rosedale",224
+dropoff_location,"Queens,Saint Albans",225
+dropoff_location,"Queens,Saint Michaels Cemetery/Woodside",226
+dropoff_location,"Queens,South Jamaica",227
+dropoff_location,"Queens,South Ozone Park",228
+dropoff_location,"Queens,Springfield Gardens North",229
+dropoff_location,"Queens,Springfield Gardens South",230
+dropoff_location,"Queens,Steinway",231
+dropoff_location,"Queens,Sunnyside",232
+dropoff_location,"Queens,Whitestone",233
+dropoff_location,"Queens,Willets Point",234
+dropoff_location,"Queens,Woodhaven",235
+dropoff_location,"Queens,Woodside",236
+dropoff_location,"Staten Island,Arrochar/Fort Wadsworth",237
+dropoff_location,"Staten Island,Bloomfield/Emerson Hill",238
+dropoff_location,"Staten Island,Charleston/Tottenville",239
+dropoff_location,"Staten Island,Great Kills",240
+dropoff_location,"Staten Island,Grymes Hill/Clifton",241
+dropoff_location,"Staten Island,Heartland Village/Todt Hill",242
+dropoff_location,"Staten Island,Mariners Harbor",243
+dropoff_location,"Staten Island,New Dorp/Midland Beach",244
+dropoff_location,"Staten Island,Oakwood",245
+dropoff_location,"Staten Island,Port Richmond",246
+dropoff_location,"Staten Island,Saint George/New Brighton",247
+dropoff_location,"Staten Island,South Beach/Dongan Hills",248
+dropoff_location,"Staten Island,Stapleton",249
+dropoff_location,"Staten Island,West Brighton",250
+dropoff_location,"Staten Island,Westerleigh",251
+dropoff_location,"Unknown,NV",252
+dropoff_location,"Unknown,Unknown",253

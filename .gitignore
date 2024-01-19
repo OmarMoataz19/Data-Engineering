@@ -18,3 +18,15 @@ Milestone 1/green_tripdata_2016-01_clean.csv
 Milestone 2/data/green_tripdata_2016-01.csv
 Milestone 2/m2_49-0359_MET_P2_1_2016.zip
 Milestone 3/yellow_tripdata_2016-01.parquet
+Milestone 4/airflow_milestone4/logs/dag_id=green_taxis_pipeline_2016-01/run_id=manual__2023-12-17T170459.905619+0000/task_id=create_dashboard_task/attempt=1.log
+Milestone 4/airflow_milestone4/logs/dag_id=green_taxis_pipeline_2016-01/run_id=manual__2023-12-17T170459.905619+0000/task_id=extract_additional_resources_task/attempt=1.log
+Milestone 4/airflow_milestone4/logs/dag_id=green_taxis_pipeline_2016-01/run_id=manual__2023-12-17T170459.905619+0000/task_id=integrate_load_to_postgres_csv_task/attempt=1.log
+Milestone 4/airflow_milestone4/logs/dag_id=green_taxis_pipeline_2016-01/run_id=manual__2023-12-17T170459.905619+0000/task_id=read_clean_transform_load_task/attempt=1.log
+Milestone 4/airflow_milestone4/logs/dag_id=green_taxis_pipeline_2016-01/run_id=manual__2023-12-17T171931.959838+0000/task_id=create_dashboard_task/attempt=1.log
+Milestone 4/airflow_milestone4/logs/dag_id=green_taxis_pipeline_2016-01/run_id=manual__2023-12-17T171931.959838+0000/task_id=extract_additional_resources_task/attempt=1.log
+Milestone 4/airflow_milestone4/logs/dag_id=green_taxis_pipeline_2016-01/run_id=manual__2023-12-17T171931.959838+0000/task_id=integrate_load_to_postgres_csv_task/attempt=1.log
+Milestone 4/airflow_milestone4/logs/dag_id=green_taxis_pipeline_2016-01/run_id=manual__2023-12-17T171931.959838+0000/task_id=read_clean_transform_load_task/attempt=1.log
+Milestone 4/airflow_milestone4/logs/dag_processor_manager/dag_processor_manager.log
+Milestone 4/airflow_milestone4/logs/scheduler/2023-12-16/dag_script.py.log
+Milestone 4/airflow_milestone4/logs/scheduler/2023-12-17/dag_script.py.log
+Milestone 4/airflow_milestone4/logs/scheduler/latest
